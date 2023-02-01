@@ -17,8 +17,8 @@ library(shinydashboardPlus)
 # -------------------------------------------------------------------------
 # Set Environment
 # -------------------------------------------------------------------------
-Sys.setenv(SPOTIFY_CLIENT_ID = '1f6c9bc7d5314065bb3467e9ff984084')
-Sys.setenv(SPOTIFY_CLIENT_SECRET = 'b1b24f99d46541769013cf20539b191e')
+Sys.setenv(SPOTIFY_CLIENT_ID = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
+Sys.setenv(SPOTIFY_CLIENT_SECRET = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
 access_token <- get_spotify_access_token()
 
 # -------------------------------------------------------------------------
